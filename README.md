@@ -1,6 +1,4 @@
 # Secret-Message-Encoder--Decoder
-
-
 This project demonstrates how secret messages can be encoded and decoded using basic string operations. It can be applied in fun activities like puzzle games, beginner-level secure messaging, and is a great tool for students to understand the basics of encoding, decoding, and logical thinking.
 
 # REAL LIFE APPLICATION
